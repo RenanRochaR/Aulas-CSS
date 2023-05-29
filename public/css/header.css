@@ -1,0 +1,23 @@
+/* Estilos do Header */
+
+header .link-logo {
+    display:block;
+    padding: 20px 25px;
+}
+
+header nav ul {
+    text-align: center;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+header nav ul li {
+    
+}
+
+.menu li a {
+    color: white;
+}

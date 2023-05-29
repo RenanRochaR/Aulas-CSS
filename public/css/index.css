@@ -1,0 +1,46 @@
+/* Estilos da pagina index */
+
+.cover-container figure img {
+    width: 100rem;
+ }
+
+main {
+    text-align: center;
+}
+
+main h3.title {
+    font-size: 1.2em;
+}
+
+.color-red ul li a {
+    color:green;
+}
+
+#link-home {
+    color:black
+}
+
+main section abbr {
+    color: #25cbd3
+}
+
+@media screen and (min-width: 992px) {
+    .cover-container figure img{
+        width: 40%;
+    }
+
+    .cover-container{
+        display: inline-block;
+    }
+
+    .section-video {
+        display: inline-block
+    }
+
+    main .section-azure blockquote{
+        width: 70%;
+        margin: auto;
+        margin-bottom: 25px;
+        text-align: center;
+    }
+}
